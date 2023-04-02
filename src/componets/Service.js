@@ -21,7 +21,7 @@ const Service = () => {
                                <h3 className="text-white text-[24px] pt-[18px]">Order Management</h3>
                                <p className="text-white text-[16px] w-[330px] pt-[18px]">Lorem ipsum dolor sit amet, consectetur the adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.</p>
                                <div className=" flex items-center pt-[15px] ">
-                                   <p className="text-white text-[16px]">Learn more</p>
+                                   <button className="p-[10px] bg-red-400 rounded-[28px]" onClick={() => setService(!service)}><p className="text-white text-[16px]">Learn more</p></button>
                                    <img src={vector} alt="" className='pl-[10px] pt-[5px] w-[30px]' />
                                </div>
                            </div>
@@ -40,7 +40,7 @@ const Service = () => {
                                <h3 className="text-white text-[24px] pt-[18px]">Crypto Platform</h3>
                                <p className="text-white text-[16px] w-[330px] pt-[18px]">Lorem ipsum dolor sit amet, consectetur the adipiscing elit. Sed quis accumsan nisi Ut ut felis congue nisl hendrerit commodo.</p>
                                <div className=" flex items-center pt-[15px] ">
-                                   <p className="text-white text-[16px]">Learn more</p>
+                                   <button className="p-[10px] bg-red-400 rounded-[28px]" onClick={() => setService(!service)}><p className="text-white text-[16px]">Learn more</p></button>
                                    <img src={vector} alt="" className='pl-[10px] pt-[5px] w-[30px]' />
                                </div>
                            </div>

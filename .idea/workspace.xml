@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="790f7b07-fad9-4ed0-bf5c-42196a01e230" name="Changes" comment="">
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Service.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <workItem from="1680373388835" duration="5587000" />
       <workItem from="1680386839645" duration="2799000" />
       <workItem from="1680394619894" duration="3598000" />
-      <workItem from="1680423461094" duration="3049000" />
+      <workItem from="1680423461094" duration="3451000" />
     </task>
     <servers />
   </component>
