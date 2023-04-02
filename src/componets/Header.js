@@ -1,7 +1,8 @@
-import React from 'react';
+import React, {useState} from 'react';
 import logo from "../img/Logo.png"
 
-const Header = () => {
+const Header = ({dark,setDark}) => {
+
     return (
         <section>
             <div className="container">
@@ -17,8 +18,7 @@ const Header = () => {
                             <a href="">Pricing</a>
                             <a href="">Blog</a>
                             <div>
-                                <button type="button"
-                                        className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2">Contact Us</button>
+                                <button type="button" className="text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2" onClick={() => setDark(!dark)}>Contact Us</button>
                             </div>
                         </div>
                     </div>

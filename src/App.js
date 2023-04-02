@@ -10,9 +10,12 @@ import Latest from "./componets/Latest";
 import Footer from "./componets/Footer";
 
 function App() {
+    const [dark, setDark] = useState(false)
   return (
-      <div className="App">
-          <Header/>
+      <div className="App" style={{
+          background: dark ? "#00004b" : "#111827",
+      }}>
+          <Header dark={dark} setDark={setDark}/>
           <Hero/>
           <Service/>
           <Complete/>
