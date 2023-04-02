@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="790f7b07-fad9-4ed0-bf5c-42196a01e230" name="Changes" comment="">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Complete.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Footer.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Header.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Hero.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Latest.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Project.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Service.js" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Teams.js" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package-lock.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package-lock.json" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package.json" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/public/index.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/public/index.html" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.css" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.js" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/index.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/index.css" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/logo.svg" beforeDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Service.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Service.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +60,7 @@
       <workItem from="1680373388835" duration="5587000" />
       <workItem from="1680386839645" duration="2799000" />
       <workItem from="1680394619894" duration="3598000" />
-      <workItem from="1680423461094" duration="931000" />
+      <workItem from="1680423461094" duration="3049000" />
     </task>
     <servers />
   </component>
