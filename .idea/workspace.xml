@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="790f7b07-fad9-4ed0-bf5c-42196a01e230" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Complete.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Footer.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Header.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Hero.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Latest.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Project.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Service.js" afterDir="false" />
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/componets/Teams.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package-lock.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package-lock.json" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package.json" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/package.json" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/public/index.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/public/index.html" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.css" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.js" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/App.js" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/index.css" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/index.css" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/tallwing/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$APPLICATION_HOME_DIR$/jbr/bin/tallwing" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NdS0HhGcdNZkV5HVUsIFH8H7c5" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="790f7b07-fad9-4ed0-bf5c-42196a01e230" name="Changes" comment="" />
+      <created>1679992241522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679992241522</updated>
+      <workItem from="1679992243054" duration="1314000" />
+      <workItem from="1679993815909" duration="4007000" />
+      <workItem from="1679998455205" duration="155000" />
+      <workItem from="1680016682651" duration="26000" />
+      <workItem from="1680163907302" duration="4098000" />
+      <workItem from="1680169027425" duration="708000" />
+      <workItem from="1680301444020" duration="21000" />
+      <workItem from="1680342347742" duration="652000" />
+      <workItem from="1680343042133" duration="4703000" />
+      <workItem from="1680348126166" duration="8990000" />
+      <workItem from="1680357838084" duration="5454000" />
+      <workItem from="1680373388835" duration="5587000" />
+      <workItem from="1680386839645" duration="2799000" />
+      <workItem from="1680394619894" duration="3598000" />
+      <workItem from="1680423461094" duration="931000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
